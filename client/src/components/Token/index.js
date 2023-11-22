@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-export const HOST = 'https://shop-avion.onrender.com:10000/api'
+export const HOST = 'https://shop-avion.onrender.com/api'
 // export const HOST = 'http://localhost:4000/api'
 
 export let token
