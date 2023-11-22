@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebfe5ee1.css",
+    "main.js": "/static/js/main.6b129a40.js",
+    "static/media/MainVideo1.mp4": "/static/media/MainVideo1.2b43ecc9ce9e27d2584a.mp4",
+    "static/media/AllProducts.png": "/static/media/AllProducts.b2f123d64545c876b321.png",
+    "static/media/Satoshi-Medium.otf": "/static/media/Satoshi-Medium.e9d34f0493a853cf10c1.otf",
+    "static/media/Satoshi-Regular.otf": "/static/media/Satoshi-Regular.811ccb0b5af1892a71df.otf",
+    "static/media/Satoshi-Light.otf": "/static/media/Satoshi-Light.66b6be60222486fa8673.otf",
+    "static/media/ClashDisplay-Medium.otf": "/static/media/ClashDisplay-Medium.afcc86306d88484344b4.otf",
+    "static/media/ClashDisplay-Light.otf": "/static/media/ClashDisplay-Light.4028f953b0654fedccb2.otf",
+    "static/media/ClashDisplay-Regular.otf": "/static/media/ClashDisplay-Regular.ccc51e2a3c40ce9bca53.otf",
+    "static/media/avionLogo.svg": "/static/media/avionLogo.b7aab02c44a52cfafa6f03cfe9f8ebc4.svg",
+    "static/media/search-svg.svg": "/static/media/search-svg.2c123fc9edef5110cee6.svg",
+    "static/media/icons8-delete.svg": "/static/media/icons8-delete.515754b9bdf7d8ff9b850e78f7b93a28.svg",
+    "index.html": "/index.html",
+    "main.ebfe5ee1.css.map": "/static/css/main.ebfe5ee1.css.map",
+    "main.6b129a40.js.map": "/static/js/main.6b129a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebfe5ee1.css",
+    "static/js/main.6b129a40.js"
+  ]
+}
