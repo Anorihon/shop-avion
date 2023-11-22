@@ -107,7 +107,7 @@ export default function ProductsContainer({ id }) {
             </NavLink>
           ))}
         </div>
-        <NavLink to="/allProducts/">
+        <NavLink to="/All-products/">
           <button className={styles['products-container-btn']}>
             View collection
           </button>
